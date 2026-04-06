@@ -1,4 +1,4 @@
-# ⚖️ Lawyer Portfolio  
+# ⚖️ Lawyer Portfolio
 
 ## 🚀 Live Demo
 [View Live Project](https://ays-law.vercel.app/) 🔗  
@@ -10,26 +10,25 @@ HTML | CSS | JavaScript | Git
 
 ---
 
-## 🔹 Project Type
+## 📌 Project Info
 **Type:** Practice Project  
-**Based on:** Online tutorial (structure inspired, but colors, images, and layout designed by me)  
-**Purpose:** Practicing **HTML, CSS, JS interactivity, responsive design**, and **Git workflow**  
+**Purpose:** Learning HTML, CSS, JavaScript interactivity, responsive design, and Git workflow  
+**Based on:** Online tutorial (structure inspired, design and layout fully customized)  
 
 ---
 
 ## ✨ Features
-
-- Fully **responsive design** for mobile and desktop  
+- Fully responsive design for **mobile and desktop**  
 - **Interactive elements** using JavaScript  
-- Sections include: personal info, work experience, diplomas  
-- **Custom design**: colors, images, layout created by me  
+- Sections include personal info, work experience, diplomas  
+- Custom **colors, images, and layout** designed by me  
 
 ---
 
 ## 📝 Notes
-- This is my **practice project**  
-- Followed a tutorial for basic structure but implemented **my own design, images, and color scheme**  
-- Great for learning **frontend workflow** and **portfolio practice**  
+- Practice project for learning frontend skills  
+- Tutorial used only for basic structure; everything else is original  
+- Good for portfolio and frontend workflow experience  
 
 ---
 
