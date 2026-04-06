@@ -30,7 +30,5 @@ HTML | CSS | JavaScript | Git
 - Tutorial used only for basic structure; everything else is original  
 - Good for portfolio and frontend workflow experience  
 
----
 
-## 👩‍💻 Author
-Aysel Mohbaliyeva – [GitHub](https://github.com/aisel-mohbaliyeva) | [LinkedIn](https://linkedin.com/in/ayselmohbaliyeva8/)
+
