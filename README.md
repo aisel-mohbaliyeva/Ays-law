@@ -28,7 +28,7 @@ HTML | CSS | JavaScript | Git
 ## 📝 Notes
 - Practice project for learning frontend skills  
 - Tutorial used only for basic structure; everything else is original  
-- Good for portfolio and frontend workflow experience  
+- Good for portfolio and frontend workflow experience
 
 
 
